@@ -1,0 +1,19 @@
+{
+  "name": "observable-patch",
+  "description": "observable patch",
+  "version": "0.0.0",
+  "repository": {
+    "url": "https://github.com/nrw/observable-patch.git"
+  },
+  "main": "index.js",
+  "scripts": {
+    "test": "tape test/*.js"
+  },
+  "dependencies": {
+    "observ-array": "^3.1.0",
+    "patcher": "0.0.6"
+  },
+  "devDependencies": {
+    "tape": "3.x.x"
+  }
+}
