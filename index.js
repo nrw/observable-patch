@@ -9,6 +9,6 @@ function DiffData (first, last) {
     last: last,
     patch: Computed([first, last], function (b, p) {
       return patcher.computePatch(b, p)
-    }
-  })
+    })
+  }
 }
