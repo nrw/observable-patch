@@ -1,6 +1,6 @@
 {
   "name": "observable-patch",
-  "description": "observable patch",
+  "description": "A computed observ the computes a patch between a base state and a patched state.",
   "version": "1.0.2",
   "repository": {
     "url": "https://github.com/nrw/observable-patch.git"
