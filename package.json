@@ -10,7 +10,7 @@
     "test": "tape test/*.js"
   },
   "dependencies": {
-    "observ-array": "^3.1.0",
+    "observ": "^0.2.0",
     "patcher": "0.0.6"
   },
   "devDependencies": {
